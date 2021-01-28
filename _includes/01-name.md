@@ -1,3 +1,3 @@
 # Hi,
 ## I am Beny
-### *Web Developer & Economist*
+### *Web Developer & An Economist*
