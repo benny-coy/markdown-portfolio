@@ -1,1 +1,1 @@
-This repository is a starter portfolio that you can use to learn a little bit about communication using Markdown.
+![Image of beautiful women](https://pixabay.com/photos/girl-women-beautiful-bella-nice-2706454/)
